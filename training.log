@@ -1,0 +1,16 @@
+2024-02-04 14:07:08,483 - INFO - Starting model training...
+2024-02-04 14:07:08,483 - INFO - Number of training samples: 120
+2024-02-04 14:07:08,484 - INFO - Number of testing samples: 30
+2024-02-04 14:07:08,514 - INFO - Model training completed.
+2024-02-04 14:07:08,515 - INFO - Model accuracy on test data: 1.00
+2024-02-04 14:07:08,516 - INFO - F1 Score: 1.00
+2024-02-04 14:07:08,517 - INFO - True Negative: [20 21 19]
+2024-02-04 14:07:08,517 - INFO - False Positive: [0 0 0]
+2024-02-04 14:07:08,517 - INFO - False Negative: [0 0 0]
+2024-02-04 14:07:08,517 - INFO - True Positive: [10  9 11]
+2024-02-04 14:07:08,517 - INFO - False Positive Rate: [0. 0. 0.]
+2024-02-04 14:07:08,517 - INFO - False Negative Rate: [0. 0. 0.]
+2024-02-04 14:07:08,517 - INFO - Model coefficients: [[-0.3972185   0.96078511 -2.37395876 -1.00329306]
+ [ 0.51294765 -0.25375192 -0.21560409 -0.76902875]
+ [-0.11572915 -0.70703319  2.58956285  1.77232181]]
+2024-02-04 14:07:08,518 - INFO - Model intercept: [  9.03252026   1.84271227 -10.87523253]
